@@ -49,3 +49,22 @@ Thumbs.db
 manpages/
 completions/
 !internal/tui/components/completions/
+# Next.js
+/.next/
+/out/
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Vercel
+.vercel
